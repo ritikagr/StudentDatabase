@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Student Database</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Name:</string>
+    <string name="emailId">Email ID</string>
+    <string name="edit_name">Enter Name</string>
+    <string name="edit_emailId">Enter Email Id</string>
+    <string name="adm">Admission No.</string>
+    <string name="edit_adm">Enter Admission Number</string>
+    <string name="add">ADD</string>
+</resources>
